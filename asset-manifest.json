@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/newu-vendee/static/css/main.50622202.chunk.css",
+    "main.js": "/newu-vendee/static/js/main.ec900373.chunk.js",
+    "main.js.map": "/newu-vendee/static/js/main.ec900373.chunk.js.map",
+    "runtime-main.js": "/newu-vendee/static/js/runtime-main.456fbdb8.js",
+    "runtime-main.js.map": "/newu-vendee/static/js/runtime-main.456fbdb8.js.map",
+    "static/css/2.77a6ce5f.chunk.css": "/newu-vendee/static/css/2.77a6ce5f.chunk.css",
+    "static/js/2.ced6aba4.chunk.js": "/newu-vendee/static/js/2.ced6aba4.chunk.js",
+    "static/js/2.ced6aba4.chunk.js.map": "/newu-vendee/static/js/2.ced6aba4.chunk.js.map",
+    "static/js/3.df86e7fd.chunk.js": "/newu-vendee/static/js/3.df86e7fd.chunk.js",
+    "static/js/3.df86e7fd.chunk.js.map": "/newu-vendee/static/js/3.df86e7fd.chunk.js.map",
+    "index.html": "/newu-vendee/index.html",
+    "static/css/2.77a6ce5f.chunk.css.map": "/newu-vendee/static/css/2.77a6ce5f.chunk.css.map",
+    "static/css/main.50622202.chunk.css.map": "/newu-vendee/static/css/main.50622202.chunk.css.map",
+    "static/js/2.ced6aba4.chunk.js.LICENSE.txt": "/newu-vendee/static/js/2.ced6aba4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.456fbdb8.js",
+    "static/css/2.77a6ce5f.chunk.css",
+    "static/js/2.ced6aba4.chunk.js",
+    "static/css/main.50622202.chunk.css",
+    "static/js/main.ec900373.chunk.js"
+  ]
+}
