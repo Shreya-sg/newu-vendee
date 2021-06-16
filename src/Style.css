@@ -22,6 +22,12 @@
     font-weight: 700;
     font-size: 25px;
 }
+
+#root .row {
+    margin-right:0px!important;
+    margin-left:0px!important;
+}
+
 /*----Top-Navbar-css---*/
 .newu-topnavbar .bg-light {background:transparent!important;}
 .newu-topnavbar .logo {height:50px;}
@@ -73,6 +79,12 @@
 }
 
 .top-header-social .col-md-3 p span{padding: 5px;}
+.top-header-social .details #right {
+    text-align: right;
+}
+.top-header-social .details #left {
+    text-align: left;
+}
 /*----Banner-slider------*/
 .home-banner-slider .bg {
     height: 600px;
@@ -250,6 +262,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    margin: 5px 0px;
 }
 
 .home-sale-section #sale-banner-2 .description {
@@ -466,7 +479,7 @@
 }
 
 .shipping-section ul {
-    padding: 0;
+    padding: 10px 0px;
     list-style: none;
     vertical-align: middle;
     margin: 0;
@@ -542,6 +555,11 @@
 .contactus {
     padding: 50px 0px;
 }
+
+.contactus .row {
+    margin-right:0px;
+    margin-left:0px;
+}
 .contactus .col-md-4 h2{
     text-align: left!important;
 }
@@ -550,12 +568,16 @@
     margin-bottom: auto;
     text-align: right;
 }
+.contactus .row label {
+    width: 70%;
+}
+
 
 .contactus .col-md-8 input[type="text"]{ 
     border: 1px solid #000;
     background: #f9f9f9;
     padding: 13px;
-    width: 500px;
+    width: 100%;
     font-size: 14px;
 }
 
@@ -613,3 +635,7 @@ ul.footer-menu{
     color: #666666;
 }
 .copyright-sec .icon-image li img { width: 50%;}
+
+
+
+

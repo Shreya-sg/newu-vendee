@@ -28,8 +28,8 @@ function Header() {
                         <div className="row">
                           <div className="col-md-3">
                               <ul className="details">
-                                <li><i class="fa fa-envelope-o" aria-hidden="true"></i>demo@cosmetic.com</li>
-                                <li><i class="fa fa-volume-control-phone" aria-hidden="true"></i>+00 212 444</li>
+                                <li id="right"><i class="fa fa-envelope-o" aria-hidden="true"></i>demo@cosmetic.com</li>
+                                <li id="left"><i class="fa fa-volume-control-phone" aria-hidden="true"></i>+00 212 444</li>
                               </ul> 
                           </div>
                           <div class="col-md-6">
