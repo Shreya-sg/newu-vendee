@@ -17,10 +17,12 @@ import {
       DropdownItem,
       NavbarText
     }  from 'reactstrap';
+
   
     
 function Header() {
         return (
+    
           <>
           <div className="newu-topnavbar" id="header-sec">
               <div className="top-header-social">
@@ -83,6 +85,7 @@ function Header() {
                     </Collapse>
                     <NavbarBrand href="/"><img  className="logo" src={process.env.PUBLIC_URL + '/images/New-NEWU-logo-03.png'} /> </NavbarBrand>
                 </Navbar>
+                
             </div>
         </div>
           </>

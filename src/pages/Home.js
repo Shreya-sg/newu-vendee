@@ -32,7 +32,7 @@ function Home(){
              <div className="row">
                  <div className="col-md-6">
                      <div class="sale-inner-bg" id="sale-banner-1" style={{backgroundImage: "url(/newu-vendee/images/slide_01.jpg)"}}>
-                        <Saletext title="96% Lorem Ispum Simple Placeholder cdacdScgyt" shopnow="Shop Now"/>
+                        <Saletext title="96% Lorem Ispum Simple Placeholder cdacdScgyt vdfvdf" shopnow="Shop Now"/>
                      </div>
                  </div>
                  <div className="col-md-3">

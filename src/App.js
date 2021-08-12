@@ -16,7 +16,7 @@ import {
 function App() {
   return (
     <Router basename="/newu-vendee">
-      <Switch>
+        <Switch>
           <Route path="/contact">
             <Contact />
           </Route>
@@ -36,7 +36,7 @@ function App() {
           <Route exact path="/">
             <Home />
           </Route>
-      </Switch>
+        </Switch>
     </Router>
   );
 }
