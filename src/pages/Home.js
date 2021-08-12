@@ -99,7 +99,7 @@ function Home(){
         <div className="review-section">
             <div className="container">
                 <h2>Customer Review</h2>
-                <p>Lorem Ispum Dummy Text</p>
+                <p>Lorem Ispum Dummy Text 123</p>
                 <div className="row">
                     <Reviewarea/>
                 </div>
